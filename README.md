@@ -1,0 +1,2 @@
+Pour utiliser le programme il suffit d'aller dans le dossier main et de faire un "make", les exécutables respectent les spécifications de l'énoncé.
+Si "ac-matrice" affiche une erreur de taille, il faut modifier la constante TRIE_SIZE_MAX dans le fichier "ac-matrice.h"
